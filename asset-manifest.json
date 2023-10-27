@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/test-front/static/js/main.b9059fe0.js",
+    "static/js/787.4d723399.chunk.js": "/test-front/static/js/787.4d723399.chunk.js",
+    "index.html": "/test-front/index.html",
+    "main.b9059fe0.js.map": "/test-front/static/js/main.b9059fe0.js.map",
+    "787.4d723399.chunk.js.map": "/test-front/static/js/787.4d723399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b9059fe0.js"
+  ]
+}
